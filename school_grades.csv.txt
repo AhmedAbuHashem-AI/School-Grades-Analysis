@@ -1,0 +1,11 @@
+name,gender,age,subject,grade
+Ahmed,Male,17,Math,85
+Ali,Male,18,Math,60
+Sara,Female,17,Math,95
+Lina,Female,18,Math,45
+Omar,Male,17,Math,30
+Mona,Female,18,Math,88
+Adam,Male,17,Math,77
+Noor,Female,18,Math,92
+Yousef,Male,17,Math,55
+Mariam,Female,18,Math,68

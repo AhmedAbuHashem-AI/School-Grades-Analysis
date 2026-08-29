@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated report file (do not upload)
+school_report.csv
+
+# Virtual environments
+venv/
+env/
