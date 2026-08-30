@@ -22,6 +22,31 @@ A Python project to analyze students' grades using Pandas and Matplotlib, extrac
 - *Pandas* – Data manipulation.
 - *Matplotlib* – Data visualization.
 
+10:50 ص
+## 📸 Screenshots
+
+### Terminal Output
+
+The following screenshots show the results printed in the terminal after running the script.
+
+![Terminal Output 1](images/results-terminal.png)
+
+![Terminal Output 2](images/results-terminal-2.png)
+
+### Visualizations
+
+*Bar Chart - Students Grades*
+![Bar Chart](images/Bar-Chart-for-grades.png)
+
+*Pie Chart - Passed vs Failed*
+![Pie Chart](images/Pie-Chart-for-Passed-vs-Failed.png)
+
+*Scatter Plot - Age vs Grade*
+![Scatter Plot](images/Scatter-Plot-(Age-vs-Grade).png)
+
+### Exported CSV Report in Excel
+![Exported CSV Report in Excel](images/Exported-CSV-Report-in-Excel.png)
+
 ## 🚀 How to Run
 
 1. Install dependencies:
